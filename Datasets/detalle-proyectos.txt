@@ -1,0 +1,7 @@
+! covid_19_clean_data_Daywise(12-april).csv > Base de datos de control día a día de los casos del coronavirus mundial en los primeros 81 días.
+
+! Summary of Weather-WW2.csv > Comparación de las condiciones meteorológicas en el tiempo de misiones y tiempo de bombardeos en la 2da guerra mundial.
+
+! sample-submission.csv train.csv test.csv >  Conformada por los aspectos de las viviendas residenciales en Ames, Iowa, EEUU para la predicción del precio final de cada casa.
+
+! Boston.csv > Base de datos con valores de la vivienda en los suburbios de Boston
